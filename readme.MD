@@ -27,3 +27,17 @@ Pastikan Anda memiliki perangkat lunak berikut sebelum menjalankan program ini:
    ```bash
    git clone https://github.com/username/repository.git
    cd repository
+
+## Cara Penggunaan
+
+1. Jalankan program menggunakan terminal atau IDE:
+   ```bash
+   python ganjil_genap.py
+   cd repository
+
+## Kontak 
+
+Jika ada pertanyaan, hubungi:
+```bash
+Email: [sayhansagufta100@gmail.com]
+GitHub: https://github.com/sayhansagufta
